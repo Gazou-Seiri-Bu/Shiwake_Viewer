@@ -1,0 +1,42 @@
+初めまして。
+今日はよろしく
+お願いします。
+
+おはようございます。
+\
+今日も一日頑張りましょう！
+
+ねえねえ…
+ニュース見た？
+￥
+あれ、びっくりしたよね！
+
+あの…
+\ time:2
+質問いいですか？
+\ time:2
+えーと…
+\ time:8
+やっぱりいいです！
+\ time:1, size:75, style:bold
+
+こんにちは。
+\ font:ＭＳ ゴシック, size:35, style:bold, color:#ff8000, color2:#ffffff, back:3, position:10, break:20, volume:85, time: 
+今日はいい天気ですね。
+\ font:ＭＳ ゴシック, size:35, style:bold, color:#ff8000, color2:#ffffff, back:3, position:10, break:20, volume:85, time: 
+
+お久しぶり。
+\ font:ＭＳ 明朝, size:45, style:italic, color:#80ffff, color2:#004f4f, back:3, position:10, break:20, volume:85, time:2
+元気にしてた？
+\ font:ＭＳ 明朝, size:45, style:italic, color:#80ffff, color2:#004f4f, back:3, position:10, break:20, volume:85, time: 
+
+お疲れさま！
+\ font:メイリオ, size:50, style:bold, color:#ff80ff, color2:#880088, back:3, position:10, break:20, volume:85, time:
+最近調子はどう？
+\ font:メイリオ, size:50, style:bold, color:#ff80ff, color2:#880088, back:3, position:10, break:20, volume:85, time: 
+
+それじゃあね！
+\ font:Arial Black, size:120, style:bold, color:#ffff00, color2:#868600, back:6, position:40, break:20, volume:85, time: 0.8
+また明日！
+\ font:Arial Black, size:120, style:bold, color:#ffff00, color2:#868600, back:6, position:40, break:20, volume:85, time: 0.8
+
