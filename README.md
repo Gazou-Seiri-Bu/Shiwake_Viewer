@@ -1,8 +1,6 @@
 # 仕分けViewer
-![](screenshot.jpg)
 
-for Windows (Win11でのみ動作確認)
-
+![for Windows (Win11でのみ動作確認)](screenshot.jpg)
 
 ## 機能紹介
 
